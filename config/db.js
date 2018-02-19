@@ -1,4 +1,4 @@
-'use strict;'
+'use strict';
 //Include crypto to generate the movie id
 const crypto = require('crypto');
 
